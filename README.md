@@ -2,8 +2,8 @@
 
 - 👩‍💻 Computer engineering student by ifsuldeminas
 - 💻 Dev intern
-- 🖥️ I like date science and dev fullstack
-- 📚 Studying reactjs
+- 🖥️ I like backend development
+- 📚 Studying code infrastructure
 - 🙂 Pronouns: she/her
 
 <div align="center">
