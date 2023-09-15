@@ -17,7 +17,7 @@
   <img align="center" alt="Rebeca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rebeca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rebeca-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
- 
+ <br><br>
 <div> 
   <a href="https://www.instagram.com/rebeca._rosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rehdomingos123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
