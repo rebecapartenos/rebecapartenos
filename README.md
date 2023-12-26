@@ -1,7 +1,8 @@
-### Olá visitante! Sou a rebecapartenos 👋
+### Hello! I'm Rebeca Rosa 👋
 
+Learn more about me:
 - 👩‍💻 Computer engineering student by ifsuldeminas
-- 💻 Dev intern
+- 💻 Jr Software development in BigDataCorp
 - 🖥️ I like backend development
 - 📚 Studying code infrastructure
 - 🙂 Pronouns: she/her
